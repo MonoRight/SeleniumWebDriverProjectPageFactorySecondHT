@@ -4,14 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f45bdc6-3c29-40a6-8c6f-95baae088650" name="Changes" comment="" />
+    <list default="true" id="6f45bdc6-3c29-40a6-8c6f-95baae088650" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/SamsungSmartphonesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/SamsungSmartphonesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/SearchResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/SearchResultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AddToCartTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AddToCartTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DropDownListsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DropDownListsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SearchResultsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchResultsTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28ecHZ6lZU4A8yhqTNVPtUrDKeC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,6 +47,63 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.AddToCartTests.productIsAddedToCart">
+    <configuration name="AddToCartTests.productIsAddedToCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebDriverProjectPageFactorySecondHT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AddToCartTests" />
+      <option name="METHOD_NAME" value="productIsAddedToCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DropDownListsTests.dropDownListMoveToCategoriesAndPageWithCategoriesIsOpened" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebDriverProjectPageFactorySecondHT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DropDownListsTests" />
+      <option name="METHOD_NAME" value="dropDownListMoveToCategoriesAndPageWithCategoriesIsOpened" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchResultsTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebDriverProjectPageFactorySecondHT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SearchResultsTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchResultsTests.titleOfThePageContainsSearchProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebDriverProjectPageFactorySecondHT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SearchResultsTests" />
+      <option name="METHOD_NAME" value="titleOfThePageContainsSearchProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AddToCartTests.productIsAddedToCart" />
+        <item itemvalue="TestNG.DropDownListsTests.dropDownListMoveToCategoriesAndPageWithCategoriesIsOpened" />
+        <item itemvalue="TestNG.SearchResultsTests" />
+        <item itemvalue="TestNG.SearchResultsTests.titleOfThePageContainsSearchProduct" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +114,16 @@
       <updated>1651580406546</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
